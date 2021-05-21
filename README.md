@@ -55,7 +55,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 1. Faça um clone :
 
 ```sh
-  git clone https://github.com/Rafael-Rufino/Calculadora-Simples.git
+  git clone https://github.com/Rafael-Rufino/Gerador-de-Senhas.git
 ```
 
 
